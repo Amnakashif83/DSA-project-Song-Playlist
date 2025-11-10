@@ -1,6 +1,6 @@
 // DSA Project - Song Playlist 
 
-// AMNA KASHIF
+//Amna Kashif
 // 62360
 #include <iostream>
 #include <string>
